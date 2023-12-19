@@ -4,16 +4,16 @@ My name is Rabia, and my pronouns are she/her
 
 I'm currently working on
 
-Building a Flexible Multi-Step Onboarding Form
+- Building a Flexible Multi-Step Onboarding Form
 
 I am currently learning
 
-Complete Software Engineering Interview Course
+- Complete Software Engineering Interview Course
 
 I am looking for some interships to practice my newly learned skills
 
 
-I love adventure and always like explore and experiment.
+I love adventure and always like to  explore and experiment.
 
 <!--
 **RabiaAbdurRehman/RabiaAbdurRehman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
