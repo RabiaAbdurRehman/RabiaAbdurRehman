@@ -13,7 +13,7 @@ I am currently learning
 I am looking for some interships to practice my newly learned skills
 
 
-I love adventure and always like to  explore and experiment.
+I love adventure and always like to  explore and experiment :world_map:.
 
 <!--
 **RabiaAbdurRehman/RabiaAbdurRehman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
