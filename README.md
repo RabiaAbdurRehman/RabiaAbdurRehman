@@ -5,6 +5,8 @@ My name is Rabia, and my pronouns are she/her
 I'm currently working on
 
 - Building a Flexible Multi-Step Onboarding Form
+- Abdur's blog
+- Website Development (WordPress Development, HTML, CSS, PHP, Graphic Design)
 - Wild explorer (a BnB website for adventurers to look for a cabin/room in rural areas)
 
 I am currently learning
