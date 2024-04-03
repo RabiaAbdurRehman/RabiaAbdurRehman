@@ -7,11 +7,11 @@ I'm currently working on
 - Building a Flexible Multi-Step Onboarding Form
 - FullStackReference website(ComIT Internship)
 - Abdur's blog
-- Website Development (React, HTML, CSS, PHP, Graphic Design)(Intern web developer CarlaPlus)
-- Website Development(Volunteer Web developer Goodbot)
-- Wild explorer (a BnB website for adventurers to look for a cabin/room in rural areas)
+
 
 I am currently learning
+
+-And enrolled in software engineering bootcamp BrainStation
 
 - Complete Software Engineering Interview Course
 
