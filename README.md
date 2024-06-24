@@ -5,20 +5,19 @@ My name is Rabia, and my pronouns are she/her
 I'm currently working on
 
 - Building a Flexible Multi-Step Onboarding Form
-- FullStackReference website(ComIT Internship)
+- Plant_detector(Project)
 - Abdur's blog
 
 
 I am currently learning
+- Machine Learning
+- Minecraft Education to use in the classroom
+- Complete the Software Engineering Interview Course
 
--And enrolled in software engineering bootcamp BrainStation
-
-- Complete Software Engineering Interview Course
-
-I am looking for some interships to practice my newly learned skills
+I am looking for some internships to practice my newly learned skills
 
 
-I love adventure and always like to  explore and experiment :world_map:.
+I love adventure and always like to  explore and experiment :world_map:
 
 <!--
 **RabiaAbdurRehman/RabiaAbdurRehman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
