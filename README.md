@@ -12,7 +12,7 @@ I'm currently working on
 I am currently learning
 - Machine Learning
 - Minecraft Education to use in the classroom
-- Complete the Software Engineering Interview Course
+
 
 I am looking for some internships to practice my newly learned skills
 
